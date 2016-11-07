@@ -1,6 +1,6 @@
 {
   "name": "extract-bootstrap-webpack-plugin",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Extract a webpack bundle's boostrap into its own file.",
   "main": "index.js",
   "scripts": {
